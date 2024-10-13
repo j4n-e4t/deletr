@@ -38,5 +38,40 @@
     "name": "X / Twitter",
     "icon": "x",
     "deleteAccountPage": "https://x.com/settings/deactivate"
+  },
+  {
+    "name": "Canva",
+    "icon": "canva",
+    "deleteAccountPage": "https://www.canva.com/settings/login-and-security"
+  },
+  {
+    "name": "DJI",
+    "icon": "dji",
+    "deleteAccountPage": "https://account.dji.com/account/userCancel"
+  },
+  {
+    "name": "Geoguessr",
+    "icon": "geoguessr",
+    "deleteAccountPage": "https://www.geoguessr.com/me/settings"
+  },
+  {
+    "name": "GitHub",
+    "icon": "github",
+    "deleteAccountPage": "https://github.com/settings/admin#:~:text=Delete%20account"
+  },
+  {
+    "name": "Medium",
+    "icon": "medium",
+    "deleteAccountPage": "https://medium.com/me/settings"
+  },
+  {
+    "name": "Proton",
+    "icon": "proton",
+    "deleteAccountPage": "https://account.proton.me/u/0/mail/account-password"
+  },
+  {
+    "name": "SimpleLogin",
+    "icon": "simple-login",
+    "deleteAccountPage": "https://app.simplelogin.io/dashboard/account_setting"
   }
 ]
