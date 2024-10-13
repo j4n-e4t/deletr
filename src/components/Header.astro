@@ -1,0 +1,29 @@
+---
+import { Image } from "astro:assets";
+import { Button } from "./ui/button";
+import { Github } from "lucide-react";
+---
+
+<header
+  class="max-w-5xl mx-auto px-4 py-8 font-semibold text-2xl flex flex-row justify-between items-center"
+>
+  <div class="flex flex-row gap-4 justify-end items-center">
+    <Image
+      src="/favicon.svg"
+      alt="Deletr"
+      class="h-8 w-8"
+      width={32}
+      height={32}
+    />
+    <h1>Deletr</h1>
+  </div>
+  <a
+    href="https://github.com/j4n-e4t/deletr"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <Button variant="outline" size="icon">
+      <Github className="h-[1.2rem] w-[1.2rem] rotate-0 scale-100" />
+    </Button>
+  </a>
+</header>

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Google",
+    "icon": "google",
+    "deleteAccountPage": "https://example.com/delete_service_g",
+    "rating": 4.4
+  },
+  {
+    "name": "Amazon",
+    "icon": "amazon",
+    "deleteAccountPage": "https://example.com/delete_service_g",
+    "rating": 4.4
+  },
+  {
+    "name": "Microsoft",
+    "icon": "microsoft",
+    "deleteAccountPage": "https://example.com/delete_service_g",
+    "rating": 4.4
+  },
+  {
+    "name": "1Password",
+    "icon": "1password",
+    "deleteAccountPage": "https://my.1password.com/profile",
+    "rating": 4.4
+  }
+]

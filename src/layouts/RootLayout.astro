@@ -1,0 +1,15 @@
+---
+import Head from "../components/Head.astro";
+import Header from "../components/Header.astro";
+---
+
+<html>
+  <Head />
+
+  <body class="space-y-4">
+    <Header />
+    <main class="max-w-5xl mx-auto px-4">
+      <slot />
+    </main>
+  </body>
+</html>
