@@ -1,26 +1,42 @@
 [
   {
-    "name": "Google",
-    "icon": "google",
-    "deleteAccountPage": "https://example.com/delete_service_g",
-    "rating": 4.4
-  },
-  {
     "name": "Amazon",
     "icon": "amazon",
-    "deleteAccountPage": "https://example.com/delete_service_g",
-    "rating": 4.4
+    "deleteAccountPage": "https://www.amazon.com/privacy/data-deletion"
   },
   {
     "name": "Microsoft",
     "icon": "microsoft",
-    "deleteAccountPage": "https://example.com/delete_service_g",
-    "rating": 4.4
+    "deleteAccountPage": "https://account.live.com/closeaccount.aspx"
   },
   {
     "name": "1Password",
     "icon": "1password",
-    "deleteAccountPage": "https://my.1password.com/profile",
-    "rating": 4.4
+    "deleteAccountPage": "https://my.1password.com/profile"
+  },
+  {
+    "name": "Instagram",
+    "icon": "instagram",
+    "deleteAccountPage": "https://www.instagram.com/accounts/remove/request/permanent/"
+  },
+  {
+    "name": "Facebook",
+    "icon": "facebook",
+    "deleteAccountPage": "https://www.facebook.com/help/delete_account"
+  },
+  {
+    "name": "ChatGPT",
+    "icon": "chatgpt",
+    "deleteAccountPage": "https://chatgpt.com/#settings/DataControls"
+  },
+  {
+    "name": "Reddit",
+    "icon": "reddit",
+    "deleteAccountPage": "https://www.reddit.com/prefs/delete/"
+  },
+  {
+    "name": "X / Twitter",
+    "icon": "x",
+    "deleteAccountPage": "https://x.com/settings/deactivate"
   }
 ]
