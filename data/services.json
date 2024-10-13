@@ -73,5 +73,30 @@
     "name": "SimpleLogin",
     "icon": "simple-login",
     "deleteAccountPage": "https://app.simplelogin.io/dashboard/account_setting"
+  },
+  {
+    "name": "Vercel",
+    "icon": "vercel",
+    "deleteAccountPage": "https://vercel.com/account/settings"
+  },
+  {
+    "name": "Netlify",
+    "icon": "netlify",
+    "deleteAccountPage": "https://app.netlify.com/user/settings#delete-user"
+  },
+  {
+    "name": "Twitch",
+    "icon": "twitch",
+    "deleteAccountPage": "https://www.twitch.tv/user/delete-account"
+  },
+  {
+    "name": "Todoist",
+    "icon": "todoist",
+    "deleteAccountPage": "https://app.todoist.com/app/settings/account/delete"
+  },
+  {
+    "name": "Strava",
+    "icon": "strava",
+    "deleteAccountPage": "https://www.strava.com/athlete/delete_your_account"
   }
 ]
