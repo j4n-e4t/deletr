@@ -1,47 +1,27 @@
-# Astro Starter Kit: Minimal
+# Deletr
+https://deletr.vercel.app/
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Delete your online accounts with one click!
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+> This is a community projects and contributions are welcome. Please read the [Contributing](#contributing) section for more information.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Many websites and online services make it unnecessarily difficult to delete user accounts. This project aims to compile direct links and simple instructions for deleting accounts across various online platforms.
 
-## 🚀 Project Structure
+# Development Setup
+1. Clone the repository
+2. Run `pnpm install`
+3. Run `pnpm dev`
 
-Inside of your Astro project, you'll see the following folders and files:
+# Contributing
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new feature'`)
+5. Push to the branch (`git push origin feature`)
+6. Create a new Pull Request
+7. That's it! 🎉
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Since this project is in a very early stage, there are many ways to contribute. Here are some ideas:
+- Add more websites to the list
+- Add better search and filter functionality
+- Improve the UI/UX
