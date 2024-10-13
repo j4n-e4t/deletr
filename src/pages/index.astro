@@ -1,7 +1,9 @@
 ---
 import RootLayout from "../layouts/RootLayout.astro";
 import ServiceList from "../components/ServiceList";
-import services from "../../data/services.json";
+import ServiceLoader from "@/lib/service-loader";
+
+const services = ServiceLoader();
 ---
 
 <RootLayout>
