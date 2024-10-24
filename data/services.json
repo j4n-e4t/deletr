@@ -98,5 +98,15 @@
     "name": "Strava",
     "icon": "strava",
     "deleteAccountPage": "https://www.strava.com/athlete/delete_your_account"
+  },
+  {
+    "name": "Youtube",
+    "icon": "youtube",
+    "deleteAccountPage": "https://myaccount.google.com/deleteservices"
+  },
+  {
+    "name": "Gmail",
+    "icon": "gmail",
+    "deleteAccountPage": "https://myaccount.google.com/deleteservices"
   }
 ]
