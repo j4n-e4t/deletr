@@ -26,7 +26,7 @@ export default function ServiceList({ services }: { services: Service[] }) {
         value={searchItem}
         onChange={handleInputChange}
       />
-      <div className="grid grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {filteredItems.map((service) => (
           <ServiceCard key={service.name} service={service} />
         ))}
