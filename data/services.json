@@ -158,5 +158,35 @@
     "name": "Google",
     "icon": "google",
     "deleteAccountPage": "https://myaccount.google.com/deleteservices"
+  },
+  {
+    "name": "DEV.to",
+    "icon": "dev",
+    "deleteAccountPage": "https://dev.to/settings/account"
+  },
+  {
+    "name": "Docker Hub",
+    "icon": "docker",
+    "deleteAccountPage": "https://app.docker.com/settings/deactivate"
+  },
+  {
+    "name": "GitBook",
+    "icon": "gitbook",
+    "deleteAccountPage": "https://app.gitbook.com/account"
+  },
+  {
+    "name": "GitKraken",
+    "icon": "gitkraken",
+    "deleteAccountPage": "https://app.gitkraken.com/account-info/delete-account"
+  },
+  {
+    "name": "Instagram",
+    "icon": "instagram",
+    "deleteAccountPage": "https://www.instagram.com/accounts/remove/request/permanent/"
+  },
+  {
+    "name": "AnkiWeb",
+    "icon": "anki",
+    "deleteAccountPage": "https://ankiweb.net/account/remove-account"
   }
 ]
