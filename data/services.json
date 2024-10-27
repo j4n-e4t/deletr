@@ -108,5 +108,15 @@
     "name": "Gmail",
     "icon": "gmail",
     "deleteAccountPage": "https://myaccount.google.com/deleteservices"
+  },
+  {
+    "name": "TikTok",
+    "icon": "tiktok",
+    "deleteAccountPage": "https://www.tiktok.com/setting"
+  },
+  {
+    "name": "Steam",
+    "icon": "steam",
+    "deleteAccountPage": "https://help.steampowered.com/en/wizard/HelpDeleteAccount"
   }
 ]
