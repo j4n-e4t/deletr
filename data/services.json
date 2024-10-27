@@ -180,11 +180,6 @@
     "deleteAccountPage": "https://app.gitkraken.com/account-info/delete-account"
   },
   {
-    "name": "Instagram",
-    "icon": "instagram",
-    "deleteAccountPage": "https://www.instagram.com/accounts/remove/request/permanent/"
-  },
-  {
     "name": "AnkiWeb",
     "icon": "anki",
     "deleteAccountPage": "https://ankiweb.net/account/remove-account"
