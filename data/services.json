@@ -118,5 +118,45 @@
     "name": "Steam",
     "icon": "steam",
     "deleteAccountPage": "https://help.steampowered.com/en/wizard/HelpDeleteAccount"
+  },
+  {
+    "name": "Cal.com",
+    "icon": "cal",
+    "deleteAccountPage": "https://app.cal.com/settings/my-account/profile"
+  },
+  {
+    "name": "Supabase",
+    "icon": "supabase",
+    "deleteAccountPage": "https://supabase.com/dashboard/account/me"
+  },
+  {
+    "name": "Termius SSH",
+    "icon": "termius",
+    "deleteAccountPage": "https://account.termius.com/"
+  },
+  {
+    "name": "Readwise",
+    "icon": "readwise",
+    "deleteAccountPage": "https://readwise.io/preferences/account"
+  },
+  {
+    "name": "Neon Postgres",
+    "icon": "neon",
+    "deleteAccountPage": "https://console.neon.tech/app/settings/delete"
+  },
+  {
+    "name": "IPv64.net",
+    "icon": "ipv64",
+    "deleteAccountPage": "https://ipv64.net/account.php?accountsettings&deleteaccount"
+  },
+  {
+    "name": "Home Assistant Community",
+    "icon": "home-assistant",
+    "deleteAccountPage": "https://community.home-assistant.io/u/j4n-e4t/preferences/account"
+  },
+  {
+    "name": "Google",
+    "icon": "google",
+    "deleteAccountPage": "https://myaccount.google.com/deleteservices"
   }
 ]
