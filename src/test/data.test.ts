@@ -33,5 +33,12 @@ test("verify data integrity", () => {
       getServiceIcon(service),
       `Icon not found for ${service.name}`
     ).toBeTruthy();
+
+    const serviceCount = services.filter(
+      (s) => s.name.toLowerCase() === service.name.toLowerCase()
+    ).length;
+    expect(serviceCount, `${service.name} already exists in the list`).toEqual(
+      1
+    );
   });
 });
