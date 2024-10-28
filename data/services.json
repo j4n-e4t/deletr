@@ -193,5 +193,15 @@
     "name": "Flexibits",
     "icon": "flexibits",
     "deleteAccountPage": "https://hub.flexibits.com/"
+  },
+  {
+    "name": "Cursor",
+    "icon": "cursor",
+    "deleteAccountPage": "https://www.cursor.com/settings"
+  },
+  {
+    "name": "Xiaomi",
+    "icon": "xiaomi",
+    "deleteAccountPage": "https://account.xiaomi.com/pass/del"
   }
 ]
