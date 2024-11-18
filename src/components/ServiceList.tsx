@@ -42,7 +42,7 @@ function ServiceCard({ service }: { service: Service }) {
         <a href={service.deleteAccountPage} target="_blank" rel="noreferrer">
           <div className="flex flex-row justify-start gap-4 items-center">
             <Icon name={service.icon} />
-            <h3 className="text-lg font-bold text-center">{service.name}</h3>
+            <h3 className="text-lg font-bold text-left">{service.name}</h3>
           </div>
         </a>
       </CardHeader>
